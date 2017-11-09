@@ -1,0 +1,20 @@
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\bin\Release\TaskMeneg.exe.config
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\bin\Release\TaskMeneg.exe
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\bin\Release\TaskMeneg.pdb
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.Form1.resources
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.Properties.Resources.resources
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.csproj.GenerateResource.Cache
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.exe
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.pdb
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\bin\Release\TaskMeneg.exe.config
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.exe
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.pdb
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\bin\Release\TaskMeneg.exe
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\bin\Release\TaskMeneg.pdb
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.csprojResolveAssemblyReference.cache
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.Form1.resources
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.Properties.Resources.resources
+G:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.csproj.GenerateResource.Cache
+E:\Учеба\САПКИС\TaskMeneg\TaskMeneg\bin\Release\TaskMeneg.exe.config
+E:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.exe
+E:\Учеба\САПКИС\TaskMeneg\TaskMeneg\obj\Release\TaskMeneg.pdb

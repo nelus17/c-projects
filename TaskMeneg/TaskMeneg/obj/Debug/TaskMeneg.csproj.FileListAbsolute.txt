@@ -1,0 +1,9 @@
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\bin\Debug\TaskMeneg.exe.config
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\bin\Debug\TaskMeneg.exe
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\bin\Debug\TaskMeneg.pdb
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Debug\TaskMeneg.csprojResolveAssemblyReference.cache
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Debug\TaskMeneg.Form1.resources
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Debug\TaskMeneg.Properties.Resources.resources
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Debug\TaskMeneg.csproj.GenerateResource.Cache
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Debug\TaskMeneg.exe
+c:\users\jogenmeister\documents\visual studio 2015\Projects\TaskMeneg\TaskMeneg\obj\Debug\TaskMeneg.pdb
