@@ -1,0 +1,10 @@
+C:\Users\Оксана\Desktop\Time Manager\bin\Release\Time Manager.exe.config
+C:\Users\Оксана\Desktop\Time Manager\bin\Release\Time Manager.exe
+C:\Users\Оксана\Desktop\Time Manager\bin\Release\Time Manager.pdb
+C:\Users\Оксана\Desktop\Time Manager\obj\Release\time_manager.csprojResolveAssemblyReference.cache
+C:\Users\Оксана\Desktop\Time Manager\obj\Release\time_manager.csproj.ResolveComReference.cache
+C:\Users\Оксана\Desktop\Time Manager\obj\Release\howto_hour_conversion_chart_word.Form1.resources
+C:\Users\Оксана\Desktop\Time Manager\obj\Release\time_manager.Properties.Resources.resources
+C:\Users\Оксана\Desktop\Time Manager\obj\Release\time_manager.csproj.GenerateResource.Cache
+C:\Users\Оксана\Desktop\Time Manager\obj\Release\Time Manager.exe
+C:\Users\Оксана\Desktop\Time Manager\obj\Release\Time Manager.pdb

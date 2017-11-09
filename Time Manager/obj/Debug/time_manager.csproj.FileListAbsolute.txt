@@ -1,0 +1,30 @@
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\obj\Debug\howto_hour_conversion_chart_word.csproj.ResolveComReference.cache
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\obj\Debug\howto_hour_conversion_chart_word.csprojResolveAssemblyReference.cache
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\obj\Debug\howto_hour_conversion_chart_word.Form1.resources
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\obj\Debug\howto_hour_conversion_chart_word.csproj.GenerateResource.Cache
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\bin\Debug\Time Manager.exe.config
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\bin\Debug\Time Manager.exe
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\bin\Debug\Time Manager.pdb
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\obj\Debug\time_manager.Properties.Resources.resources
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\obj\Debug\Time Manager.exe
+C:\Users\Jigalag\Desktop\howto_hour_conversion_chart_word\obj\Debug\Time Manager.pdb
+C:\Users\Jigalag\Desktop\Time Manager\bin\Debug\Time Manager.exe.config
+C:\Users\Jigalag\Desktop\Time Manager\obj\Debug\time_manager.csproj.ResolveComReference.cache
+C:\Users\Jigalag\Desktop\Time Manager\obj\Debug\Time Manager.exe
+C:\Users\Jigalag\Desktop\Time Manager\obj\Debug\Time Manager.pdb
+C:\Users\Jigalag\Desktop\Time Manager\bin\Debug\Time Manager.exe
+C:\Users\Jigalag\Desktop\Time Manager\bin\Debug\Time Manager.pdb
+C:\Users\Jigalag\Desktop\Time Manager\obj\Debug\time_manager.csprojResolveAssemblyReference.cache
+C:\Users\Jigalag\Desktop\Time Manager\obj\Debug\howto_hour_conversion_chart_word.Form1.resources
+C:\Users\Jigalag\Desktop\Time Manager\obj\Debug\time_manager.Properties.Resources.resources
+C:\Users\Jigalag\Desktop\Time Manager\obj\Debug\time_manager.csproj.GenerateResource.Cache
+C:\Users\Оксана\Desktop\Time Manager\bin\Debug\Time Manager.exe.config
+C:\Users\Оксана\Desktop\Time Manager\obj\Debug\time_manager.csproj.ResolveComReference.cache
+C:\Users\Оксана\Desktop\Time Manager\obj\Debug\Time Manager.exe
+C:\Users\Оксана\Desktop\Time Manager\obj\Debug\Time Manager.pdb
+C:\Users\Оксана\Desktop\Time Manager\bin\Debug\Time Manager.exe
+C:\Users\Оксана\Desktop\Time Manager\bin\Debug\Time Manager.pdb
+C:\Users\Оксана\Desktop\Time Manager\obj\Debug\time_manager.csprojResolveAssemblyReference.cache
+C:\Users\Оксана\Desktop\Time Manager\obj\Debug\howto_hour_conversion_chart_word.Form1.resources
+C:\Users\Оксана\Desktop\Time Manager\obj\Debug\time_manager.Properties.Resources.resources
+C:\Users\Оксана\Desktop\Time Manager\obj\Debug\time_manager.csproj.GenerateResource.Cache
