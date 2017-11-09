@@ -1,0 +1,30 @@
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\bin\Debug\Поиск.exe.config
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\bin\Debug\Поиск.exe
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\bin\Debug\Поиск.pdb
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\obj\Debug\Поиск.csprojResolveAssemblyReference.cache
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\obj\Debug\Поиск.Form1.resources
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\obj\Debug\Поиск.Properties.Resources.resources
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\obj\Debug\Поиск.csproj.GenerateResource.Cache
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\obj\Debug\Поиск.exe
+c:\users\оксана\documents\visual studio 2015\Projects\Поиск\Поиск\obj\Debug\Поиск.pdb
+C:\Users\Оксана\Desktop\Поиск\Поиск\bin\Debug\Поиск.exe.config
+C:\Users\Оксана\Desktop\Поиск\Поиск\obj\Debug\Поиск.exe
+C:\Users\Оксана\Desktop\Поиск\Поиск\obj\Debug\Поиск.pdb
+C:\Users\Оксана\Desktop\Поиск\Поиск\bin\Debug\Поиск.exe
+C:\Users\Оксана\Desktop\Поиск\Поиск\bin\Debug\Поиск.pdb
+C:\Users\Оксана\Desktop\Поиск\Поиск\obj\Debug\Поиск.csprojResolveAssemblyReference.cache
+C:\Users\Оксана\Desktop\Поиск\Поиск\obj\Debug\Поиск.Form1.resources
+C:\Users\Оксана\Desktop\Поиск\Поиск\obj\Debug\Поиск.Properties.Resources.resources
+C:\Users\Оксана\Desktop\Поиск\Поиск\obj\Debug\Поиск.csproj.GenerateResource.Cache
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\bin\Debug\Поиск.exe.config
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\obj\Debug\Поиск.exe
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\obj\Debug\Поиск.pdb
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\bin\Debug\Поиск.exe
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\bin\Debug\Поиск.pdb
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\obj\Debug\Поиск.csprojResolveAssemblyReference.cache
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\obj\Debug\Поиск.Properties.Resources.resources
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\obj\Debug\Поиск.csproj.GenerateResource.Cache
+D:\Music\Walking Dead On Broadway\Poisk\Поиск\Поиск\obj\Debug\SearchThis.Form1.resources
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\bin\Debug\Поиск.exe.config
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\Поиск.exe
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\Поиск.pdb

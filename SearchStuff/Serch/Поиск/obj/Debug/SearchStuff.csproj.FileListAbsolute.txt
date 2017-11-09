@@ -1,0 +1,27 @@
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\bin\Debug\Поиск.exe.config
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\Поиск.exe
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\Поиск.pdb
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\bin\Debug\Поиск.exe
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\bin\Debug\Поиск.pdb
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\SearchStuff.csprojResolveAssemblyReference.cache
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\SearchThis.Form1.resources
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\Поиск.Properties.Resources.resources
+D:\Music\Walking Dead On Broadway\SearchStuff\Serch\Поиск\obj\Debug\SearchStuff.csproj.GenerateResource.Cache
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\bin\Debug\Поиск.exe.config
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\Поиск.exe
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\Поиск.pdb
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\bin\Debug\Поиск.exe
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\bin\Debug\Поиск.pdb
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\SearchStuff.csprojResolveAssemblyReference.cache
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\SearchThis.Form1.resources
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\Поиск.Properties.Resources.resources
+E:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\SearchStuff.csproj.GenerateResource.Cache
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\bin\Debug\Поиск.exe.config
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\Поиск.exe
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\Поиск.pdb
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\bin\Debug\Поиск.exe
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\bin\Debug\Поиск.pdb
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\SearchStuff.csprojResolveAssemblyReference.cache
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\SearchThis.Form1.resources
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\Поиск.Properties.Resources.resources
+G:\Учеба\САПКИС\SearchStuff\Serch\Поиск\obj\Debug\SearchStuff.csproj.GenerateResource.Cache
